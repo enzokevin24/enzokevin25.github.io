@@ -1,0 +1,21 @@
+# Bitácora de Inteligencia Artificial
+
+## Consulta 1
+- **Fecha:** 2026-11-04
+- **Herramienta utilizada:** Gemini
+- **Objetivo:** Adaptar mi perfil (mantenimiento de hardware, barbería y orientación a Ingeniería en Sistemas) a los 3 proyectos del HTML semántico.
+- **Prompt completo:** "Tengo la idea de seguir en una área técnica de ingeniería en sistemas. Mi portfolio debe mostrar habilidades actuales como barbero, mantenimiento de hardware en consolas y dispositivos electrónicos. Mis palabras de identidad son: aprendo rápido, trabajo solo o en equipo y optimizo el tiempo para llegar rápido al objetivo. Generá el HTML semántico con los 7 campos por proyecto."
+- **Parte utilizada:** Los textos descriptivos de la sección "Sobre mí", la estructura de los 3 proyectos y la división de habilidades.
+- **Cambios realizados por mí:** Personalicé los nombres de las rutas de las imágenes en las evidencias (`assets/img/...`).
+- **¿Qué comprendí?:** Cómo traducir experiencias no informáticas (como la barbería) en habilidades transferibles como gestión del tiempo y atención al detalle.
+- **¿Qué descarté y por qué?:** Descarté descripciones demasiado largas para mantener la lectura ágil y clara.
+
+## Consulta 2
+- **Fecha:** 2026-11-04
+- **Herramienta utilizada:** Gemini
+- **Objetivo:** Diseñar la paleta de colores CSS clara y técnica acorde al área de Sistemas y Hardware.
+- **Prompt completo:** "Creá un CSS puro con colores claros, limpios y profesionales adecuados para un perfil de ingeniería en sistemas y hardware. Usá variables en :root, tarjetas con fondo blanco y bordes finos."
+- **Parte utilizada:** Las variables de color (`:root`), los estilos de `.tarjeta` y la distribución `.grid-habilidades`.
+- **Cambios realizados por mí:** Ajusté los márgenes y rellenos (`padding`) para que las tarjetas quedaran alineadas en la vista móvil.
+- **¿Qué comprendí?:** El uso de `grid-template-columns` con `minmax` para lograr un diseño adaptable a pantallas de celular sin usar librerías externas.
+- **¿Qué descarté y por qué?:** Descarté efectos visuales recargados para mantener una estética directa y profesional.
